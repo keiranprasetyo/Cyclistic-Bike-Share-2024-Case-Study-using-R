@@ -1,0 +1,51 @@
+# Installing packages
+install.packages("tidyverse")
+install.packages("ggplot2")
+install.packages("lubridate")
+
+# Loading required libraries
+library(tidyverse)
+library(ggplot2)
+library(lubridate)
+
+# Read and rename data files from aug23 to jul24
+aug23 <- read_csv("Documents/Case Study 1/202307-divvy-tripdata.csv")
+sep23 <- read_csv("Documents/Case Study 1/202308-divvy-tripdata.csv")
+oct23 <- read_csv("Documents/Case Study 1/202309-divvy-tripdata.csv")
+nov23 <- read_csv("Documents/Case Study 1/202310-divvy-tripdata.csv")
+dec23 <- read_csv("Documents/Case Study 1/202311-divvy-tripdata.csv")
+jan24 <- read_csv("Documents/Case Study 1/202312-divvy-tripdata.csv")
+feb24 <- read_csv("Documents/Case Study 1/202401-divvy-tripdata.csv")
+mar24 <- read_csv("Documents/Case Study 1/202402-divvy-tripdata.csv")
+apr24 <- read_csv("Documents/Case Study 1/202403-divvy-tripdata.csv")
+may24 <- read_csv("Documents/Case Study 1/202404-divvy-tripdata.csv")
+jun24 <- read_csv("Documents/Case Study 1/202405-divvy-tripdata.csv")
+jul24 <- read_csv("Documents/Case Study 1/202406-divvy-tripdata.csv")
+
+# Check column names of the datasets
+colnames(aug23)
+colnames(sep23)
+colnames(oct23)
+colnames(nov23)
+colnames(dec23)
+colnames(jan24)
+colnames(feb24)
+colnames(mar24)
+colnames(apr24)
+colnames(may24)
+colnames(jun24)
+colnames(jul24)
+
+# Display structure of the datasets
+str(aug23)
+str(sep23)
+str(oct23)
+str(nov23)
+str(dec23)
+str(jan24)
+str(feb24)
+str(mar24)
+str(apr24)
+str(may24)
+str(jun24)
+str(jul24)
