@@ -72,6 +72,8 @@ Having completed our analysis and gathered significant insights, it's now time t
 #### Deliverable:
 Our deliverable will include supporting visualizations and a summary of our key findings. We will present each main finding along with its corresponding visualization to ensure our points are effectively communicated.
 
+### Visualizations:
+
 ### Summary of Findings:
 Examined bike usage data from August 2023 to July 2024 to discern patterns in the behavior of annual members versus casual riders on Cyclistic bikes. The bar graphs provided highlight the distinctions in usage between these two groups, leading to the following insights:
 1. Annual members use bikes more frequently than casual riders. Although their average ride durations are shorter, annual members demonstrate consistent riding patterns throughout the week. In contrast, casual riders show variability in ride lengths across different days of the week.
