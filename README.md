@@ -73,6 +73,23 @@ Having completed our analysis and gathered significant insights, it's now time t
 Our deliverable will include supporting visualizations and a summary of our key findings. We will present each main finding along with its corresponding visualization to ensure our points are effectively communicated.
 
 ### Visualizations:
+#### Total Number of Rides by Member Type
+![Total Number of Rides by Member Type](https://github.com/user-attachments/assets/a42ea1f7-fb81-42d3-85ea-8675d5e666ab)
+
+#### Percentage of all rides
+![Percentage of all rides](https://github.com/user-attachments/assets/012909d8-0f23-4042-8172-d9fa9ddc15e0)
+
+#### Total Number of Rides by Member Type for each day of the week
+![Total Number of Rides by Member Type for each day of the week](https://github.com/user-attachments/assets/7fd8dd12-b739-475c-98cc-c613ced95f9c)
+
+#### Average Ride Length by Member Type for each day of the week
+![Average Ride Length by Member Type for each day of the week](https://github.com/user-attachments/assets/8cfb285b-ea6e-4a76-8837-092f1ad6da75)
+
+#### Total Number of Rides by Member Type for each month
+![Total Number of Rides by Member Type for each month](https://github.com/user-attachments/assets/cb75d1af-b357-4e56-860d-3690ee6b7742)
+
+#### Average Ride Length by Member Type for each month
+![Average Ride Length by Member Type for each month](https://github.com/user-attachments/assets/c5756e5c-9312-4131-8be7-bff02014414a)
 
 ### Summary of Findings:
 Examined bike usage data from August 2023 to July 2024 to discern patterns in the behavior of annual members versus casual riders on Cyclistic bikes. The bar graphs provided highlight the distinctions in usage between these two groups, leading to the following insights:
